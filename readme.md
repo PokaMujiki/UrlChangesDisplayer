@@ -2,7 +2,7 @@
 Java 17
 # Build 
 ```
-./mvnw.cmd clean package   
+mvnw.cmd clean package   
 ```
 # Run
 ```
