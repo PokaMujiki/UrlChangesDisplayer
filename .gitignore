@@ -17,9 +17,6 @@ buildNumber.properties
 .classpath
 
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -29,6 +26,9 @@ target/
 *.iws
 *.iml
 *.ipr
+out/
+.idea/
+.idea_modules/
 
 ### Eclipse ###
 .apt_generated
